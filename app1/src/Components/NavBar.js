@@ -32,12 +32,12 @@ export default function NavBar()
 
   const handleNavCollapse = () => {setIsNavCollapsed(!isNavCollapsed);}
 
-  const str1={backgroundColor: "rgb(4, 4, 88)"};
+  const str={backgroundColor: "rgb(4, 4, 88)"};
 
 
     return(
         
-        <nav className="navbar navbar-expand-lg  navbar-dark " style= {str1}>
+        <nav className="navbar navbar-expand-lg  navbar-dark " style= {str}>
     <div className="container-fluid">
     <Link className="navbar-brand" to="/">My Dairy</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="/navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded={!isNavCollapsed ? true : false} aria-label="Toggle navigation" onClick={handleNavCollapse}>
