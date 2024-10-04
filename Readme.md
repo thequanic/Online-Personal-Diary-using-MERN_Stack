@@ -1,5 +1,9 @@
 # Project : Online Personal Diary
 **Technology Used: MERN Stack**
+##
+![Project Screenshot1](https://github.com/thequanic/Online-Personal-Diary-using-MERN_Stack/blob/main/Project_ScreenShot1.png)
+![Project Screenshot2](https://github.com/thequanic/Online-Personal-Diary-using-MERN_Stack/blob/main/Project_ScreenShot2.png)
+![Project Screenshot3](https://github.com/thequanic/Online-Personal-Diary-using-MERN_Stack/blob/main/Project_ScreenShot3.png)
 ## Objective 
 To develop a full stack webportal to provide a safe, private, and secure system to share and store your personal thoughts and day life stories with anytime-anywhere accessbility.
 ## Motivation 
