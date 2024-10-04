@@ -1,4 +1,4 @@
-# Project : Online Personal Diary
+# Project : My Diary - An Online Personal Diary Web Application
 **Technology Used: MERN Stack**
 ##
 ![Project Screenshot1](https://github.com/thequanic/Online-Personal-Diary-using-MERN_Stack/blob/main/Project_ScreenShot1.png)
